@@ -1,6 +1,6 @@
 # 09 — IA em cada fase da implementação
 
-> A camada de IA do estudo de caso. Os prompts são específicos para *implementar e operar* um sistema de coordenação Flight Levels — não são prompts genéricos de gestão (esses vivem no repositório [ai-pm-playbook](https://github.com/brunokoehler/ai-pm-playbook)).
+> A camada de IA do estudo de caso. Os prompts são específicos para *implementar e operar* um sistema de coordenação Flight Levels — não são prompts genéricos de gestão (esses vivem no repositório [ai-pm-playbook](https://github.com/pmbrunokoehler/ai-pm-playbook)).
 
 Para manter cada fase navegável e independente, os prompts ficam em arquivos separados na pasta [`prompts/`](prompts/), um por fase do ciclo de implementação. Cada arquivo segue o mesmo formato: quando usar, o que você recebe, o prompt pronto para copiar e uma dica de uso.
 
