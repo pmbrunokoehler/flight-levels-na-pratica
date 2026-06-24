@@ -2,17 +2,17 @@
 
 > A camada de IA do estudo de caso. Os prompts são específicos para *implementar e operar* um sistema de coordenação Flight Levels — não são prompts genéricos de gestão (esses vivem no repositório [ai-pm-playbook](https://github.com/brunokoehler/ai-pm-playbook)).
 
-Para manter cada fase navegável e independente, os prompts ficam em arquivos separados na pasta [`prompts/`](../prompts/), um por fase do ciclo de implementação. Cada arquivo segue o mesmo formato: quando usar, o que você recebe, o prompt pronto para copiar e uma dica de uso.
+Para manter cada fase navegável e independente, os prompts ficam em arquivos separados na pasta [`prompts/`](prompts/), um por fase do ciclo de implementação. Cada arquivo segue o mesmo formato: quando usar, o que você recebe, o prompt pronto para copiar e uma dica de uso.
 
 ## As cinco fases
 
 | Fase | Arquivo | O que cobre |
 |------|---------|-------------|
-| 1 | [Preparação e diagnóstico](../prompts/01-preparacao-e-diagnostico.md) | Mapear o fluxo de valor, decidir se FL2 é a resposta, identificar flight items |
-| 2 | [Design e implementação](../prompts/02-design-e-implementacao.md) | Desenhar o board, calibrar granularidade, desenhar as cadências |
-| 3 | [Operação e facilitação](../prompts/03-operacao-e-facilitacao.md) | Preparar a cadência, destravar dependências, conectar OKR à entrega |
-| 4 | [Monitoramento e métricas](../prompts/04-monitoramento-e-metricas.md) | Interpretar fluxo, auditar a saúde do sistema, narrativa para a liderança |
-| 5 | [Melhoria contínua](../prompts/05-melhoria-continua.md) | Retro do sistema, detectar desvios, planejar a expansão |
+| 1 | [Preparação e diagnóstico](prompts/01-preparacao-e-diagnostico.md) | Mapear o fluxo de valor, decidir se FL2 é a resposta, identificar flight items |
+| 2 | [Design e implementação](prompts/02-design-e-implementacao.md) | Desenhar o board, calibrar granularidade, desenhar as cadências |
+| 3 | [Operação e facilitação](prompts/03-operacao-e-facilitacao.md) | Preparar a cadência, destravar dependências, conectar OKR à entrega |
+| 4 | [Monitoramento e métricas](prompts/04-monitoramento-e-metricas.md) | Interpretar fluxo, auditar a saúde do sistema, narrativa para a liderança |
+| 5 | [Melhoria contínua](prompts/05-melhoria-continua.md) | Retro do sistema, detectar desvios, planejar a expansão |
 
 ## Como esta camada se conecta ao estudo de caso
 
