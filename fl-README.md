@@ -12,6 +12,10 @@ Vários squads trabalhando num mesmo produto, cada um ágil dentro das suas fron
 
 Flight Levels nível 2 foi a resposta para tornar a coordenação entre times visível e gerenciável, sem transformar squads autônomos em engrenagens controladas de cima.
 
+## A camada de IA
+
+Além do relato da implementação, este repositório traz uma [biblioteca de prompts de IA específicos para cada fase](prompts/) de um sistema Flight Levels — do diagnóstico inicial à melhoria contínua. Não são prompts genéricos de gestão; cada um foi pensado para acelerar uma decisão concreta de quem implementa e opera a coordenação entre times. É a aplicação prática de IA à gestão de projetos ágeis e tradicionais, ancorada num caso real.
+
 ## O que você encontra aqui
 
 | Documento | Conteúdo |
@@ -24,6 +28,7 @@ Flight Levels nível 2 foi a resposta para tornar a coordenação entre times vi
 | [06 — Métricas e resultados](docs/06-metricas-e-resultados.md) | O que medimos e o que de fato melhorou |
 | [07 — Erros e aprendizados](docs/07-erros-e-aprendizados.md) | O que não funcionou e o que eu faria diferente |
 | [08 — Aplicar no seu time](docs/08-aplicar-no-seu-time.md) | Um guia para você adaptar isso ao seu contexto |
+| [09 — IA em cada fase](docs/09-ia-em-cada-fase.md) | Prompts de IA para preparar, implementar, operar, monitorar e evoluir o sistema |
 
 Os [diagramas](diagramas/) e [templates](templates/) reúnem os artefatos visuais e os modelos prontos para reuso.
 

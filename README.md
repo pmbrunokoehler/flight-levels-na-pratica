@@ -18,6 +18,12 @@ Cada time otimizava o próprio pedaço. O sistema como um todo não andava.
 
 ---
 
+## A camada de IA
+
+Além do relato da implementação, este repositório traz uma [biblioteca de prompts de IA específicos para cada fase](prompts/) de um sistema Flight Levels — do diagnóstico inicial à melhoria contínua. Não são prompts genéricos de gestão; cada um foi pensado para acelerar uma decisão concreta de quem implementa e opera a coordenação entre times.
+
+---
+
 ## O que você encontra aqui
 
 | Documento | Conteúdo |
@@ -30,6 +36,7 @@ Cada time otimizava o próprio pedaço. O sistema como um todo não andava.
 | [06 — Métricas e resultados](fl-06-metricas.md) | O que medimos e o que de fato melhorou |
 | [07 — Erros e aprendizados](fl-07-erros.md) | O que não funcionou e o que eu faria diferente |
 | [08 — Como aplicar no seu contexto](fl-08-aplicar.md) | Um guia para você adaptar isso ao seu cenário |
+| [09 — IA em cada fase](fl-09-ia-em-cada-fase-INDICE.md) | Prompts de IA para preparar, implementar, operar, monitorar e evoluir o sistema |
 
 ### Artefatos prontos para reuso
 
@@ -38,6 +45,7 @@ Cada time otimizava o próprio pedaço. O sistema como um todo não andava.
 | [Diagramas](fl-diagramas.md) | Diagramas Mermaid: visão geral dos três níveis, flight route e mapa de atividades |
 | [Template — Board de coordenação](fl-template-board.md) | Estrutura mínima do board FL2 com colunas, regras de uso e o que evitar |
 | [Template — Cadências](fl-template-cadencias.md) | Checklist de validação e modelos para as principais cadências |
+| [Prompts de IA por fase](prompts/) | Biblioteca de prompts prontos para cada etapa da implementação e operação |
 
 ---
 
@@ -65,6 +73,7 @@ Não é um curso de Flight Levels — é o relato de quem implementou, ajustou e
 3. **Consulte os [erros e aprendizados](fl-07-erros.md)** antes de sair implementando — evita armadilhas comuns.
 4. **Use o [guia de aplicação](fl-08-aplicar.md)** como roteiro para o seu próprio contexto.
 5. **Adapte os [templates](fl-template-board.md)** ao seu fluxo.
+6. **Acelere com IA:** use os [prompts por fase](prompts/) para cada etapa da sua implementação.
 
 ---
 
