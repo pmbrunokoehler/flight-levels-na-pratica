@@ -1,0 +1,30 @@
+# Sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V5
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude Code
+.claude/
+
+# Temporários e rascunhos
+*.tmp
+*.bak
+draft-*/
+rascunho-*/
+
+# Exportações geradas
+*.pdf
+*.docx
+*.pptx
